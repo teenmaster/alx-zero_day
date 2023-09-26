@@ -1,1 +1,1 @@
-git fetch origin master git nerge origin/master
+git merge origin/master
