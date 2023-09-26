@@ -1,2 +1,1 @@
-My first readme
-You can also do this
+This is my first interaction with github
